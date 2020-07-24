@@ -1028,7 +1028,7 @@ installPiVPN(){
 	if [ "$VPN" = "openvpn" ]; then
 
 		pivpnDEV="tun0"
-		pivpnNET="10.8.0.0"
+		pivpnNET="172.31.255.0"
 		vpnGw="${pivpnNET/.0.0/.0.1}"
 
 		askAboutCustomizing
