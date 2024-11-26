@@ -13,7 +13,7 @@
 # timestamp 2020/5/24 15:53BST
 
 ######## VARIABLES #########
-pivpnGitUrl="https://github.com/d-sec-net/pivpn"
+pivpnGitUrl="https://github.com/bwc-hacktheplanet/pivpn"
 #pivpnGitUrl="/home/pi/repos/pivpn"
 setupVarsFile="setupVars.conf"
 setupConfigDir="/etc/pivpn" 
